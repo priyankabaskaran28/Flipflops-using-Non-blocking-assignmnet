@@ -87,8 +87,8 @@ endmodule
 
 ```
 #### SIMULATION OUTPUT
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/5535866d-791f-46a8-a190-11647d4dd6eb" />
 
-<img width="1195" height="750" alt="image" src="https://github.com/user-attachments/assets/2cae28b5-f7cb-490a-8fd6-2fa616c34c54" />
 
 ### JK Flip-Flop (Non Blocking)
 ```verilog
@@ -149,8 +149,8 @@ endmodule
 
 ```
 #### SIMULATION OUTPUT
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a9cdb6ca-0068-4b1d-82cb-ad0b926903e0" />
 
-<img width="1191" height="749" alt="image" src="https://github.com/user-attachments/assets/84b8f077-369a-49cf-a9b1-0c576ff1fbef" />
 
 ### D Flip-Flop (Non Blocking)
 ```verilog
@@ -205,9 +205,8 @@ endmodule
 ```
 
 #### SIMULATION OUTPUT
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/415b0c7c-c7d9-41c5-8810-90b15c2185b9" />
 
-------- paste the output here -------
----
 ### T Flip-Flop (Non Blocking)
 ```verilog
 module tff(clk, rst, tin, tout);
@@ -255,10 +254,8 @@ endmodule
 ```
 
 #### SIMULATION OUTPUT
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9cd65d94-cd8c-4ef3-ad30-72848d14bbbb" />
 
-------- paste the output here -------
-
----
 
 ### RESULT
 
